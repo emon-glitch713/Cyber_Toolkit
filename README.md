@@ -97,6 +97,8 @@ python my_scanner.py
 )
 ![Scan2](<img width="1366" height="662" alt="WhatsApp Image 2026-05-04 at 21 11 59" src="https://github.com/user-attachments/assets/601d1d0e-491a-40c6-9606-69e881339b08" />
 )
+<img width="1366" height="662" alt="Screenshot_2026-05-04_14_10_46" src="https://github.com/user-attachments/assets/bcf2e5b3-f26b-485b-8a8e-3080eaf22304" />
+<img width="1366" height="662" alt="WhatsApp Image 2026-05-04 at 21 11 59" src="https://github.com/user-attachments/assets/87cc05c6-3a99-4f71-b434-e76f7cf5a7dc" />
 
 ---
 
